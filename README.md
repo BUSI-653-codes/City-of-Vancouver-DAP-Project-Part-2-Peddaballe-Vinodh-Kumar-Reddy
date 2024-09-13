@@ -71,18 +71,18 @@ The primary need of this project is to conduct a exploratory analsis of the proc
 * For this first I am creating Trusted folder where i can store data which has been masked to protect sensitive data information.<br>
 ![fig27](https://github.com/user-attachments/assets/42a7f45d-2a77-4427-b4a0-6502f05af6a7)
 * The above image shows the Trusted folder created.
-* I them creat an ETL to convert the raw data avaialble using ETL to identify and mask the sensitive information.<br>
+* I them create an ETL to convert the raw data available using ETL to identify and mask the sensitive information.<br>
 ![fig28](https://github.com/user-attachments/assets/e0fb6123-ac94-41f1-b9d8-1c8003ee55a6)
 * The above image shows the ETL pipeline for saving the trusted information from raw data.
-* I then move on to storing the information retrieved from ETL into the trsuted folder.<br>
+* I then move on to storing the information retrieved from ETL into the trusted folder.<br>
 ![fig29](https://github.com/user-attachments/assets/ca5e6f77-1ac7-4b88-8389-86f9df496390)
-* The above image shows the resultant informations tored as csv file in trusted folder.
+* The above image shows the resultant information stored as csv file in trusted folder.
 ### Step 17: Data Monitoring
 * Data monitoring involves continuously tracking data usage and access to ensure compliance with governance policies, detect potential breaches, and maintain data integrity.
 * Here we will be using "**AWS CloudWatch**" service to create a dashboard based on our needs.<br>
 ![fig39](https://github.com/user-attachments/assets/c2b37041-9b1f-4b57-bb10-98a26f017e8c)
 * The above image displays the dashboard of AWS CloudWatch
-* I then move on to create a user activity trail using the "**AWS CloudTrail**" service, so that i can track ser activities for any anamolies.<br>
+* I then move on to create a user activity trail using the "**AWS CloudTrail**" service, so that i can track user activities for any anomalies.<br>
 ![fig40](https://github.com/user-attachments/assets/8b022324-8eb3-4b4e-b7bc-854ad8d49b3c)
 * The above image shows the cloud trail created for tracking user activity.<br>
 ![fig41](https://github.com/user-attachments/assets/0af61951-03a0-44ae-8a78-a303ea702d14)
