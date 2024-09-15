@@ -1,4 +1,4 @@
-<h1 align="center">City of Vancouver Project Part 2 Assignemnt</h1>
+<h1 align="center">City of Vancouver Project Part 2 Assignment</h1>
 <p align="center">
 Peddaballe Vinodh Kumar Reddy [2212316] <br>
 University Canada West<br>
